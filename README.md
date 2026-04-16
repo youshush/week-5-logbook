@@ -1,3 +1,6 @@
+<img width="929" height="565" alt="image" src="https://github.com/user-attachments/assets/566e28de-2655-4e17-9ddb-4eca3a30032c" />
+<img width="1149" height="282" alt="image" src="https://github.com/user-attachments/assets/77ba19ea-14a6-408e-92d1-fe66b4956d3c" />
+<img width="257" height="112" alt="image" src="https://github.com/user-attachments/assets/26acda30-a2c7-40b6-ac9c-0742b1082f75" />
 I created a product class with the name and price attributes and i used a constructor to initialise them. I used a print method to display the product details and i encoutered an error with object creation outside a method and this was fixed by using a seperate main class.
 
 <img width="976" height="709" alt="image" src="https://github.com/user-attachments/assets/9dd2c47a-8ca2-4dbc-9fb2-354c17808659" />
